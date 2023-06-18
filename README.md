@@ -9,4 +9,4 @@ Canada is a federal parliamentary democracy with a bicameral legislature at the 
 
 (2) scheme.do -- graph style scheme used in the book.
 
-(2) comparativeLegislator.do. Cleans and analyzes lipadParlinfoMerged_dayLevel.dta. Produces Figures 1-3.
+(3) comparativeLegislator.do. Cleans and analyzes lipadParlinfoMerged_dayLevel.dta. Produces Figures 1-3.
