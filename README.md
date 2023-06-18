@@ -7,4 +7,6 @@ Canada is a federal parliamentary democracy with a bicameral legislature at the 
 (1) lipadParlinfoMerged_dayLevel.dta
     Available: https://www.dropbox.com/s/5ky2kphxpaf10ig/lipadParlinfoMerged_dayLevel.dta?dl=0 (385m). Merger of Hansard (lipad) and the official parlinfo database about the profiles and roles of parliamentarians. Data structured by day for each parliamentarian, 1988-2019.
 
+(2) scheme.do -- graph style scheme used in the book.
+
 (2) comparativeLegislator.do. Cleans and analyzes lipadParlinfoMerged_dayLevel.dta. Produces Figures 1-3.
