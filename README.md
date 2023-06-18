@@ -10,3 +10,14 @@ Canada is a federal parliamentary democracy with a bicameral legislature at the 
 (2) scheme.do -- graph style scheme used in the book.
 
 (3) comparativeLegislator.do. Cleans and analyzes lipadParlinfoMerged_dayLevel.dta. Produces Figures 1-3.
+
+
+() Table 1 - Election outcomes (Seats), 1988 - 2019
+() Table 2 - Descriptives.xlsx - Descriptive statistics, outcomes and covariates.
+() (Revised) Table 3 - Predictors of Parliamentary Speech.xlsx
+() Figure 1.png - By Party: % of legislators who are female, and % words and interventions by female legislators. 
+() Figure 2.png - Speech counts, seniority by gender 
+() Table 3.A - Predicting Interventions (nbreg)
+() Figure 3.A - Coefficient plot predicting interventions (from Table 3.A).
+() Table 3.B - Predicting Words (nbreg)
+() Figure 3.Br.png - Coefficient plot predicting words spoken (from Table 3.B).
