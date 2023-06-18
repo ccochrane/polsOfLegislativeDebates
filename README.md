@@ -7,17 +7,37 @@ Canada is a federal parliamentary democracy with a bicameral legislature at the 
 (1) lipadParlinfoMerged_dayLevel.dta
     Available: https://www.dropbox.com/s/5ky2kphxpaf10ig/lipadParlinfoMerged_dayLevel.dta?dl=0 (385m). Merger of Hansard (lipad) and the official parlinfo database about the profiles and roles of parliamentarians. Data structured by day for each parliamentarian, 1988-2019.
 <br>
+<br>
 (2) scheme.do -- graph style scheme used in the book.
+<br>
 <br>
 (3) comparativeLegislator.do. Cleans and analyzes lipadParlinfoMerged_dayLevel.dta. Produces Figures 1-3.
 <br>
+<br>
 () Table 1 - Election outcomes (Seats), 1988 - 2019
 <br>
+<br>
 () Table 2 - Descriptives.xlsx - Descriptive statistics, outcomes and covariates.
+<br>
+<br>
 () (Revised) Table 3 - Predictors of Parliamentary Speech.xlsx
+<br>
+<br>
 () Figure 1.png - By Party: % of legislators who are female, and % words and interventions by female legislators. 
+<br>
+<br>
 () Figure 2.png - Speech counts, seniority by gender 
+<br>
+<br>
 () Table 3.A - Predicting Interventions (nbreg)
+<br>
+<br>
 () Figure 3.A - Coefficient plot predicting interventions (from Table 3.A).
+<br>
+<br>
 () Table 3.B - Predicting Words (nbreg)
+<br>
+<br>
 () Figure 3.Br.png - Coefficient plot predicting words spoken (from Table 3.B).
+<br>
+<br>
